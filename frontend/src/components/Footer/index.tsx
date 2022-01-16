@@ -6,7 +6,7 @@ function Footer() {
     <footer className='footer'>
       <section className='texto'>
         <p>Desenvolvido por Gabriel Trindade </p>
-        <p> Semana Spring React - <a href="https://github.com/devsuperior/sds-dsmovie" target='_blank' className="item_2">DevSuperior</a></p>
+        <p> Semana Spring React - <a href="https://github.com/devsuperior/sds-dsmovie" target='_blank'   rel="noreferrer" className="item_2">DevSuperior</a></p>
         <p className='logo'>Projeto DSMovie 2022</p>
       </section>
 
