@@ -46,7 +46,8 @@
 }
 
 .dsmovie-btn {
-    background-color: var(--color-primary);
+    /* background-color: var(--color-primary); Bootstrap */
+    background: linear-gradient(to left, rgb(2, 192, 135), rgb(0, 102, 128)) !important;
     font-size: 14px;
     font-weight: 700;
     height: 40px;

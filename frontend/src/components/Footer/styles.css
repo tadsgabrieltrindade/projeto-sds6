@@ -1,0 +1,40 @@
+.footer {
+    background: linear-gradient(to bottom right, rgb(2, 192, 135), rgb(0, 102, 128));
+    color: #fff;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  section {
+      margin-bottom: 1em;
+  }
+  
+  .logo{
+      color: #f7aa12;
+  }
+  
+  
+  .item {
+    font-size: 2em;
+    margin-right: 1em;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.5s;
+  }
+  
+  .item:hover {
+    color: #f7aa12;
+  }
+  
+  .item_2 {
+    color: #fff;
+    transition: 0.5s;
+  }
+  
+  .item_2:hover {
+    color: #f7aa12;
+  }
