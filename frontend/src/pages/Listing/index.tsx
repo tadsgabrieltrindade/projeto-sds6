@@ -3,7 +3,7 @@ import Pagination from "components/Pagination";
 import axios from "axios";
 import { useState, useEffect } from "react";
 import { BASE_URL } from "Utils/requests";
-import { MoviePage } from "types/Movie";
+import { MoviePage } from "types/movie";
 
 function Listing() {
   //paginação

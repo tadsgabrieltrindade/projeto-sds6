@@ -1,6 +1,6 @@
 import MovieScore from "components/MovieScore";
 import { Link } from "react-router-dom";
-import { Movie } from "types/Movie";
+import { Movie } from "types/movie";
 
 //indica o tipo de dado que a função irá receber
 type Props = { 
